@@ -16,10 +16,8 @@ canvas {
 html,
 body {
   height: 100%;
-}
-
-body {
-  zoom: 70%;
+  overflow: hidden;
+  zoom: 80%;
 }
 
 .player {

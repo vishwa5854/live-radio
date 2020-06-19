@@ -1,11 +1,17 @@
-<link href="style.css" rel="stylesheet" type="text/css" />
+<head>
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, user-scalable=no, height=device-height"
+  />
+</head>
+<link href="/style.css" rel="stylesheet" type="text/css" />
 <link
   href="https://fonts.googleapis.com/css?family=Roboto:100"
   rel="stylesheet"
   type="text/css"
 />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="script.js"></script>
+<script type="text/javascript" src="/script.js"></script>
 <div class="player">
   <canvas></canvas>
   <div class="song">
@@ -28,3 +34,21 @@
   hidden="true"
   crossorigin="anonymous"
 ></audio>
+<a href="about.html" class="button">About</a>
+<a href="twitterFeed.html" class="button">Twitter</a>
+
+<style>
+  .button {
+    background-color: white;
+    border: none;
+    color: #fe4365;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+</style>
