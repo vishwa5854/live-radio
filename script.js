@@ -568,8 +568,8 @@ $(document).ready(function () {
 
     tracks: [
       {
-        artist: "Kavinsky",
-        song: "Odd Look ft. The Weeknd",
+        artist: "Live Jam 107",
+        song: "Now Playing",
         url: "//katiebaca.com/tutorial/odd-look.mp3",
       },
     ],
