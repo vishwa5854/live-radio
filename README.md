@@ -6,4 +6,4 @@
 
 ![Marketplace Preview](https://my-music-12.s3.ap-south-1.amazonaws.com/MobileScreens.png)
 
-Available here https://bit.ly/2Ze3p2J
+Available here https://vishwa5854.github.io/ExpertRadioScotland/
